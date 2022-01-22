@@ -61,4 +61,3 @@ for(let i = 0; i<2; i++) {
 // isAdult('Nishithaarsh',21);
 // isAdult('Sample Child', 5);
 // aFunction();
-
